@@ -1,5 +1,5 @@
 # sohu_text_matching
-2021搜狐校园文本匹配算法大赛 分比我们低的都是帅哥队
+2021搜狐校园文本匹配算法大赛Top2：分比我们低的都是帅哥队
 
 本repo包含了本次大赛决赛环节提交的代码文件及答辩PPT，提交的模型文件可在百度网盘获取（链接：https://pan.baidu.com/s/1T9FtwiGFZhuC8qqwXKZSNA ，提取码：2333 ）。
 
